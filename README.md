@@ -19,4 +19,4 @@ A simple Python game where the computer picks a random number and you have to gu
 - Game loops with `while True`
 - Input validation and comparisons
 
-Created: January 2026
+Created: February 2026
